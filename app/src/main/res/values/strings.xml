@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TOP</string>
+    <string name="width">Panjang</string>
+    <string name="height">Lebar</string>
+    <string name="lenght">Tinggi</string>
+    <string name="calculate">hitung</string>
+    <string name="result">Hasil</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="tinggi">tinggi</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">hasil</string>
+</resources>
